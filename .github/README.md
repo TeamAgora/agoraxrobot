@@ -1,11 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
 
-<h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
-</h2>
-
-<p align="center">
-  <img src="https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [KIMJOKOIN](https://t.me/KIMJIKOIN_BOT)**_
