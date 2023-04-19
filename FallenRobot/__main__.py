@@ -89,15 +89,15 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🦋 𝙃𝙀𝙇𝙋𝙎 𝘼𝙉𝘿 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 🦋", callback_data="help_back"),
+        InlineKeyboardButton(text="🦋 HELP AND COMMANDS 🦋", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🎀 𝙈𝙔𝙎𝙀𝙇𝙁 🎀", callback_data="fallen_"),
-        InlineKeyboardButton(text="💜 𝘼𝙍𝙈𝙔 💜", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🎀 ABOUT BOT 🎀", callback_data="fallen_"),
+        InlineKeyboardButton(text="💜 OWNER 💜", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="👅 𝘿𝘼𝘿𝘿𝙔 👅", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="👄 𝙁𝘼𝙈 👄", callback_data="source_"),
+        InlineKeyboardButton(text="👅 SUPPORT 👅", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="👄 UPDATES 👄", callback_data="source_"),
     ],
 ]
 
@@ -205,7 +205,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAEQiVFkOn9-KVAHUAieRiDCQk5Jr9pTZAAC3ggAAlTA0FWcVn4XYmjPSi8E"
+                "CAACAgUAAxkBAAPqZD_IAWWd8hmp3P7tp5EKaYDPAuoAAkUEAALdwmFV7jZnNf-iSVkvBA"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
@@ -412,7 +412,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="https://t.me/kimjikoinsupport",
+                            url="https://t.me/AGORAWORLD",
                         ),
                     ],
                     [
@@ -442,16 +442,16 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://t.me/kimjikoinsupport)
-[ᴩʏʀᴏɢʀᴀᴍ](https://t.me/kimjikoinsupport)
-[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://t.me/kimjikoinsupport)
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://t.me/AGORAWORLD)
+[ᴩʏʀᴏɢʀᴀᴍ](https://t.me/AGORAWORLD)
+[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://t.me/AGORAWORLD)
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](t.me/kimjikoinsupport) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/kimjikoinsupport)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/AGORAWORLD)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/kimjikoinsupport).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/AGORAWORLD).
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
