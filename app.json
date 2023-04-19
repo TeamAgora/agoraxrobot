@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/kannadigaXD/KIMJIKOIN",
+   "repository": "https://github.com/kimjikoin/Management",
    "stack": "heroku-22",
    "addons": [
       {
