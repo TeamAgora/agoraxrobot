@@ -90,7 +90,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🫂 ᴄʟɪᴄᴋ ᴏɴʟʏ ғᴏʀ ᴋᴀʀɴᴀᴛᴀᴋᴀ ɢʀᴏᴜᴘs 🫂",
+            text="🦋 ᴄʟɪᴄᴋ ᴏɴʟʏ ғᴏʀ ᴋᴀʀɴᴀᴛᴀᴋᴀ ɢʀᴏᴜᴘs 🦋",
             url=f"https://t.me/KANNADASUPER_BOT?startgroup=true",
               ),
     ],
@@ -99,10 +99,10 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀", callback_data="fallen_"),
-        InlineKeyboardButton(text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/AGORAWORLD"),
     ],
     [
-        InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/MR_AGORA"),
         InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/TEAMAGORA"),
     ],
 ]
