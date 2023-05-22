@@ -89,6 +89,12 @@ buttons = [
         ),
     ],
     [
+        InlineKeyboardButton(
+            text="🫂 ᴛᴀᴋᴇ ᴍᴇ ʏᴏᴜ ᴡɪᴛʜ 🫂",
+            url=f"https://t.me/KANNADASUPER_BOT?startgroup=true",
+              ),
+    ],
+    [
         InlineKeyboardButton(text="🌪 ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs 🌪", callback_data="help_back"),
     ],
     [
@@ -97,7 +103,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", callback_data="source_"),
+        InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/TEAMAGORA"),
     ],
 ]
 
@@ -205,7 +211,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAPqZD_IAWWd8hmp3P7tp5EKaYDPAuoAAkUEAALdwmFV7jZnNf-iSVkvBA"
+                ""
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
