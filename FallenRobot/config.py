@@ -2,16 +2,16 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 6
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_ID = 8117180
+    API_HASH = "34ce938c495ce1b2ae0e97fb237e8695"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = ""  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://xkktuvotvfgbyd:d42e4a2d16d27e30fb17de003fe69fb080e340d50367e3ed36da136c56c8f411@ec2-52-207-137-57.compute-1.amazonaws.com:5432/d5ms5utuhj2agc"  # A sql database url from elephantsql.com
 
     EVENT_LOGS = ()  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://zewdatabase:ijoXgdmQ0NCyg9DO@zewgame.urb3i.mongodb.net/ontap?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://graph.org/file/6ed3863209d0be9c968de.jpg"
@@ -20,7 +20,7 @@ class Config(object):
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "wget -N monitoring.platform360.io/agent360.sh && bash agent360.sh 6419a758575ecc59860d6f97"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 6181817811  # User id of your telegram account (Must be integer)
 
