@@ -72,32 +72,32 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*𝙃𝙀𝙔𝙊 * {}, 💜
+*ʜᴇʏᴏ 🦋 * {}, 💜
 
-*๏ 𝙄 𝘼𝙈 * {} !
-➻ 𝙏𝙃𝙀 𝙈𝙊𝙎𝙏 𝙋𝙊𝙒𝙀𝙍𝙁𝙐𝙇 𝙂𝙍𝙊𝙐𝙋 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏 𝘼𝙉𝘿 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏 𝙒𝙄𝙏𝙃 𝙎𝙊𝙈𝙀 𝙎𝙀𝙓𝙔 𝘼𝙒𝙀𝙎𝙊𝙈𝙀 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎.
+*๏ ɪ ᴀᴍ * {} !
+➻ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ʟᴀɢ ғʀᴇᴇ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.
 
 ──────────────────
-*๏ 𝘾𝙇𝙄𝘾𝙆 𝙊𝙉 𝙏𝙃𝙀 𝙃𝙀𝙇𝙋 𝘽𝙐𝙏𝙏𝙊𝙉 𝙏𝙊 𝙂𝙀𝙏 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 𝙊𝙁 𝙈𝙔 𝙈𝙊𝘿𝙐𝙇𝙀𝙎 𝘼𝙉𝘿 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎.*
+*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏғ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴs ᴄᴏᴍᴍᴀɴᴅs.*
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="👅 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 👀",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            text="🫂 ᴛᴀᴋᴇ ᴍᴇ ʏᴏᴜ ᴡɪᴛʜ 🫂",
+            url=f"https://t.me/XDTELEGRAMBOT?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🦋 HELP AND COMMANDS 🦋", callback_data="help_back"),
+        InlineKeyboardButton(text="🌪 ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs 🌪", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🎀 ABOUT BOT 🎀", callback_data="fallen_"),
-        InlineKeyboardButton(text="💜 OWNER 💜", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀", callback_data="fallen_"),
+        InlineKeyboardButton(text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="👅 SUPPORT 👅", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="👄 UPDATES 👄", callback_data="source_"),
+        InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", callback_data="source_"),
     ],
 ]
 
