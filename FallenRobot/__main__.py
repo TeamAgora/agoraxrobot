@@ -363,7 +363,6 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
             f"\n*➻ 🦋 ᴍʏ ʙɪʀᴛʜ : »* {uptime}"
             f"\n*➻ 🦋 ᴍʏ ғᴀɴs : »* {sql.num_users()}"
             f"\n*➻ 🦋 ᴍʏ ᴛᴇʀʀɪᴛᴏʀɪᴇs : »* {sql.num_chats()}"
-            f"\n*➻ 💋 ᴍʏ ʜᴜʙʙʏ : »* url=f"https://t.me/MR_AGORA"
             "\n────────────────────"
             "\n\n➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ."
@@ -385,10 +384,10 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/mr_agora
                         ),
                         InlineKeyboardButton(
-                            text="sᴏᴜʀᴄᴇ",
+                            text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀",
                             callback_data="source_",
                         ),
                     ],
@@ -407,18 +406,18 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/agoraworkd"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/teamagora"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/mr_agora"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
+                            text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀",
                             url="https://t.me/AGORAWORLD",
                         ),
                     ],
@@ -452,7 +451,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://t.me/AGORAWORLD)
 [ᴩʏʀᴏɢʀᴀᴍ](https://t.me/AGORAWORLD)
 [ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://t.me/AGORAWORLD)
-ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](t.me/kimjikoinsupport) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](t.me/TEAMAGORA) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://t.me/btsarmyxd) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/AGORAWORLD)
