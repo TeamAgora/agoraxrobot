@@ -89,16 +89,12 @@ buttons = [
               ),
     ],
     [
-        InlineKeyboardButton(text="ᴀᴅᴠᴀɴᴄᴇ", callback_data="help_back"),
-        InlineKeyboardButton(text="ᴍᴜsɪᴄ", callback_data="settings_back_helper"),
+        InlineKeyboardButton(text="🦋 ɢᴄ ᴄᴏɴᴛʀᴏʟ 🦋", callback_data="help_back"),
+        InlineKeyboardButton(text="🦋 ᴠᴄ ᴄᴏɴᴛʀᴏʟ 🦋", callback_data="settings_back_helper"),
     ],
     [
-        InlineKeyboardButton(text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀", callback_data="fallen_"),
-        InlineKeyboardButton(text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/AGORAWORLD"),
-    ],
-    [
-        InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/MR_AGORA"),
-        InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/TEAMAGORA"),
+        InlineKeyboardButton(text="🦋 ᴀʙᴏᴜᴛ ᴍᴇʜ 🦋", callback_data="fallen_"),
+        InlineKeyboardButton(text="🦋 ᴍᴀʜ ᴄʀᴇᴀᴛᴏʀ 🦋", url=f"https://t.me/mr_agora"),
     ],
 ]
 
