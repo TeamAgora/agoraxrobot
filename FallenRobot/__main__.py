@@ -93,8 +93,7 @@ buttons = [
         InlineKeyboardButton(text="🦋 ᴠᴄ ᴄᴏɴᴛʀᴏʟ 🦋", callback_data="settings_back_helper"),
     ],
     [
-        InlineKeyboardButton(text="🦋 ᴀʙᴏᴜᴛ ᴍᴇʜ 🦋", callback_data="fallen_"),
-        InlineKeyboardButton(text="🦋 ᴍᴀʜ ᴄʀᴇᴀᴛᴏʀ 🦋", url=f"https://t.me/mr_agora"),
+        InlineKeyboardButton(text="🦋 ᴀᴅᴠᴀɴᴄᴇ 🦋", callback_data="fallen_"),
     ],
 ]
 
@@ -367,23 +366,23 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="fallen_support"
+                            text="🦋 sᴜᴩᴩᴏʀᴛ 🦋", callback_data="fallen_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
+                            text="🦋 ᴄᴏᴍᴍᴀɴᴅs 🦋", callback_data="help_back"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"tg://user?id={OWNER_ID}"
+                            text="🦋 ᴍʏ ʜᴜʙʙʏ 🦋", url=f"https://t.me/mr_agora"
                         ),
                         InlineKeyboardButton(
-                            text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀",
+                            text="🦋 ᴀʙᴏᴜᴛ ᴍᴇʜ 🦋",
                             callback_data="source_",
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="fallen_back"),
+                        InlineKeyboardButton(text="🦋 ʙᴀᴄᴋ 🦋", callback_data="fallen_back"),
                     ],
                 ]
             ),
@@ -397,23 +396,23 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/agoraworkd"
+                            text="🦋 sᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/agoraworld"
                         ),
                         InlineKeyboardButton(
-                            text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/teamagora"
+                            text="🦋 ᴜᴘᴅᴀᴛᴇs 🦋", url=f"https://t.me/teamagora"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/mr_agora"
+                            text="🦋 ʙᴛs 🦋", url=f"https://t.me/btsarmyxd"
                         ),
                         InlineKeyboardButton(
-                            text="🫦 ᴀʙᴏᴜᴛ ᴍᴇʜ 👀",
-                            url="https://t.me/AGORAWORLD",
+                            text="🦋 ᴄʜᴀᴛ 🦋",
+                            url="https://t.me/do_jism_ek_jaan_op",
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="fallen_"),
+                        InlineKeyboardButton(text="🦋 ʙᴀᴄᴋ 🦋", callback_data="fallen_"),
                     ],
                 ]
             ),
