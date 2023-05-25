@@ -84,14 +84,8 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🫂 ᴛᴀᴋᴇ ᴍᴇ ʏᴏᴜ ᴡɪᴛʜ 🫂",
-            url=f"https://t.me/XDTELEGRAMBOT?startgroup=true",
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="🦋 ᴄʟɪᴄᴋ ᴏɴʟʏ ғᴏʀ ᴋᴀʀɴᴀᴛᴀᴋᴀ ɢʀᴏᴜᴘs 🦋",
-            url=f"https://t.me/KANNADASUPER_BOT?startgroup=true",
+            text="🦋🦋 ʜᴇᴀᴠᴇɴ 🦋🦋",
+            url=f"https://t.me/TeamAgora?livestream",
               ),
     ],
     [
