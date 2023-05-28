@@ -62,7 +62,7 @@ def send_rules(update, chat_id, from_pm=False, dest_chat=None):
                 [
                     [
                         InlineKeyboardButton(
-                            text="• ʀᴜʟᴇs •",
+                            text="🦋 ʀᴜʟᴇs 🦋",
                             url=f"t.me/{bot.username}?start={chat_id}",
                         ),
                     ],
@@ -76,7 +76,7 @@ def send_rules(update, chat_id, from_pm=False, dest_chat=None):
                 [
                     [
                         InlineKeyboardButton(
-                            text="• ʀᴜʟᴇs •",
+                            text="🦋 ʀᴜʟᴇs 🦋",
                             url=f"t.me/{bot.username}?start={chat_id}",
                         ),
                     ],
