@@ -85,7 +85,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="🦋🦋 ʜᴇᴀᴠᴇɴ 🦋🦋",
-            url=f"https://t.me/TeamAgora?livestream",
+            url=f"https://t.me/About_karnataka?livestream",
               ),
     ],
     [
@@ -396,19 +396,19 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🦋 sᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/agoraworld"
+                            text="🦋 sᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/karnatakachattinggroup"
                         ),
                         InlineKeyboardButton(
-                            text="🦋 ᴜᴘᴅᴀᴛᴇs 🦋", url=f"https://t.me/teamagora"
+                            text="🦋 ᴜᴘᴅᴀᴛᴇs 🦋", url=f"https://t.me/about_karnataka"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🦋 ʙᴛs 🦋", url=f"https://t.me/btsarmyxd"
+                            text="🦋 ғɪɢʜᴛᴇʀs 🦋", url=f"https://t.me/teamkarnatakafighterd"
                         ),
                         InlineKeyboardButton(
-                            text="🦋 ᴄʜᴀᴛ 🦋",
-                            url="https://t.me/do_jism_ek_jaan_op",
+                            text="🦋 ᴏᴡɴᴇʀ 🦋",
+                            url="https://t.me/mr_agora",
                         ),
                     ],
                     [
@@ -438,16 +438,16 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://t.me/AGORAWORLD)
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://t.me/karnatakachattinggroup)
 [ᴩʏʀᴏɢʀᴀᴍ](https://t.me/AGORAWORLD)
 [ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://t.me/AGORAWORLD)
-ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](t.me/TEAMAGORA) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://t.me/btsarmyxd) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](t.me/TEAMAGORA) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://t.me/teamkarnatakafighters) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/AGORAWORLD)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/about_karnataka)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/AGORAWORLD).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/karnatakachattinggroup).
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
